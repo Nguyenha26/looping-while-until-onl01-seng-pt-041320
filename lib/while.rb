@@ -6,4 +6,4 @@ def using_while
 	end
 end
 
-
+puts #{using_while}
